@@ -10,3 +10,5 @@ date-released: 2026-11-21
 license: MIT
 repository-code: https://github.com/Topbrutus/polybrutus-d55
 abstract: "Exact synthetic Euclidean metric on 60 norm-one points, all 1770 labelled squared-distance pairs and affine rank 55, with separate ideal graph."
+doi: 10.5281/zenodo.24430708
+url: https://doi.org/10.5281/zenodo.24430708
