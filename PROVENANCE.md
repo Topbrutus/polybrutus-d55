@@ -1,0 +1,9 @@
+# Polybrutus D55 - immutable source lineage and AI assistance
+
+**Human scientific author:** Gabriel St-Pierre, independent researcher. **Material AI assistance:** OpenAI ChatGPT (Astra) helped independently implemented rational verifiers, manuscript, metadata and controlled publication. AI is not an author.
+
+**Only original direct scientific parent:** Topbrutus/polybrutus-d54@v0.1.0, real peeled Git tag \`b6c003db566c63993652e3e717dd01f654f3ad39\`, DOI 10.5281/zenodo.24430643. Its entire original source ZIP is preserved byte-identically under \`prior/d54/frozen_scientific_tag_v0.1.0.zip\`, 3208661 bytes, 32 entries, ZIP CRC PASS, SHA256 \`efecef3743401fc6100f3f0e223a75cd4683b38852fb5150229ae279675a24be\`. Earlier original full source ZIP archives remain nested unchanged. Original D54 certificate \`prior/d54/results/certificate_d54.json\` is copied byte-identically SHA256 \`4c035c5e54293b8561fd37e07c637fd765ea7465fba67e49ca6e815b48a890ec\`. Both exact programs authenticate archive SHA, CRC, original certificate and 1711 exact inherited labels.
+
+**Historical documentary caveat:** original D47 certificate has an incorrect textual grandparent D46 Git commit reference, previously disclosed from D48. Original frozen historical source ZIP bytes are not silently changed. Some original ZIP text exhibits CRLF-vs-LF differences against Git blobs; checks allow normalized text comparison while keeping the ZIP unmodified.
+
+**Zenodo:** structured parent isDerivedFrom DOI 10.5281/zenodo.24430643, two separate references D54 and historic D7 10.5281/zenodo.24407952. **Limits:** This is one synthetic exact Euclidean metric and one separately chosen dimensionless ideal weighted complete graph, not experimental measurement of physical extra dimensions, hertz, particles, a novel universal theorem or independent human peer review.

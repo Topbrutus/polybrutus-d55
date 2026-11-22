@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Cite the official public Zenodo DOI for this preprint when published."
+title: "Polybrutus 55D: Exact 60-Point Euclidean Metric and Forty-Ninefold Ideal Graph Mode"
+type: software
+authors:
+  - family-names: St-Pierre
+    given-names: Gabriel
+version: "0.1.0"
+date-released: 2026-11-21
+license: MIT
+repository-code: https://github.com/Topbrutus/polybrutus-d55
+abstract: "Exact synthetic Euclidean metric on 60 norm-one points, all 1770 labelled squared-distance pairs and affine rank 55, with separate ideal graph."
